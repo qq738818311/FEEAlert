@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "025188D9-C3BF-494B-8768-6617C1537098"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SwiftErrorBreakpoint">
+         <BreakpointContent
+            uuid = "3DF5933D-DCB8-4F79-A9B5-AC9AD3217BD3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56FEE566-1F1C-4434-B191-DA81D5540923"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FEEAlert/Views/ShareView/ShareView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "configAutoLayout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47AD750A-BD18-4578-B182-D944AAACC75E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FEEAlert/FEEAlert.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "235"
+            endingLineNumber = "235"
+            landmarkName = "show()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "47AD750A-BD18-4578-B182-D944AAACC75E - ff838605fbf1e4e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in FEEAlert.FEEBaseConfig.show() -&gt; ()"
+                  moduleName = "FEEAlert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cpf/Desktop/FEEAlert/FEEAlert/FEEAlert.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "239"
+                  endingLineNumber = "239"
+                  offsetFromSymbolStart = "1298">
+               </Location>
+               <Location
+                  uuid = "47AD750A-BD18-4578-B182-D944AAACC75E - 93bb5c656b950664"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (FEEAlert.FEEBaseConfig) -&gt; Swift.Bool in closure #2 () -&gt; () in FEEAlert.FEEBaseConfig.show() -&gt; ()"
+                  moduleName = "FEEAlert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cpf/Desktop/FEEAlert/FEEAlert/FEEAlert.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "239"
+                  endingLineNumber = "239"
+                  offsetFromSymbolStart = "69">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "10209F5D-51E0-46D3-BCE4-F9792D138EBF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4660D11-FDCA-4AC5-BD82-FD23813A7FE1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FEEAlert/AlertViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "689"
+            endingLineNumber = "689"
+            landmarkName = "demo(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D4660D11-FDCA-4AC5-BD82-FD23813A7FE1 - 9c279b631163dda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FEEAlert.AlertViewController.demo(Swift.Int) -&gt; ()"
+                  moduleName = "FEEAlert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cpf/Desktop/FEEAlert/FEEAlert/AlertViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "689"
+                  endingLineNumber = "689"
+                  offsetFromSymbolStart = "5796">
+               </Location>
+               <Location
+                  uuid = "D4660D11-FDCA-4AC5-BD82-FD23813A7FE1 - c39e4e2bdc799152"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #13 (Swift.Array&lt;FEEAlert.SelectedListModel&gt;) -&gt; () in FEEAlert.AlertViewController.demo(Swift.Int) -&gt; ()"
+                  moduleName = "FEEAlert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cpf/Desktop/FEEAlert/FEEAlert/AlertViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "663"
+                  endingLineNumber = "663"
+                  offsetFromSymbolStart = "83">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
