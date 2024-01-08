@@ -1,17 +1,6 @@
 
 # FEEAlert - Swift 版 [LEEAlert - 优雅的Alert ActionSheet](https://github.com/lixiang1994/LEEAlert)
 
-[![](https://img.shields.io/cocoapods/l/LEEAlert.svg)](LICENSE)&nbsp;
-[![](http://img.shields.io/cocoapods/v/LEEAlert.svg?style=flat)](http://cocoapods.org/?q=LEEAlert)&nbsp;
-[![](http://img.shields.io/cocoapods/p/LEEAlert.svg?style=flat)](http://cocoapods.org/?q=LEEAlert)&nbsp;
-[![](https://img.shields.io/badge/support-iOS8%2B-blue.svg?style=flat)](https://www.apple.com/nl/ios/)&nbsp;
-[![](https://img.shields.io/badge/Xcode-11.0-blue.svg)](https://developer.apple.com/xcode/)&nbsp;
-[![](https://img.shields.io/badge/language-Objective--C-f48041.svg?style=flat)](https://www.apple.com/)&nbsp;
-![Build Status](https://travis-ci.org/lixiang1994/LEEAlert.svg?branch=master)&nbsp;
-![](https://img.shields.io/cocoapods/dt/LEEAlert.svg)
-
-
-
 演示
 ==============
 ![AlertDemo演示](https://github.com/lixiang1994/Resources/blob/master/LEEAlert/alertDemo.gif)
