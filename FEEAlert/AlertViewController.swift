@@ -345,13 +345,14 @@ class AlertViewController: UIViewController {
                 .feeAction("好的") {
                     // 点击事件Block
                 }
-                .feeOpenAnimationConfig({ animatingBlock, animatedBlock in
+                .feeOpenAnimationConfig { animatingBlock, animatedBlock in
+                    // 可自定义UIView动画方法以及参数设置
                     UIView.animate(withDuration: 1.0, delay: 0, usingSpringWithDamping: 0.4, initialSpringVelocity: 1.0, options: .allowUserInteraction) {
                         animatingBlock() //调用动画中Block
                     } completion: { _ in
                         animatedBlock() //调用动画结束Block
                     }
-                })
+                }
                 .feeCloseAnimationConfig { animatingBlock, animatedBlock in
                     UIView.animate(withDuration: 0.5, delay: 0, options: .curveEaseOut, animations: {
                         animatingBlock()
