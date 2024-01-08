@@ -299,12 +299,6 @@ Action一般分为3种类型 1. 默认类型 2. 销毁类型(Destructive) 3.取�
 
 
 
-其他问题
-==============
-
-详情请查看[Issues](https://github.com/lixiang1994/LEEAlert/issues?q=is%3Aissue+is%3Aopen+label%3AQ%26A)
-
-
 特别说明
 ==============
 
