@@ -82,7 +82,7 @@ Action一般分为3种类型 1. 默认类型 2. 销毁类型(Destructive) 3.取�
     FEEAlert.alert.config
     .feeTitle("标题") 		// 添加一个标题 (默认样式)
     .feeContent("内容")		// 添加一个标题 (默认样式)
-    .feeTextField { textField	// 添加一个输入框 (自定义设置)
+    .feeTextField { textField in	// 添加一个输入框 (自定义设置)
     	// textfield设置Block
     }
     .feeCustomView(view)	// 添加自定义的视图
