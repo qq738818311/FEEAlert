@@ -43,38 +43,6 @@
             endingLineNumber = "235"
             landmarkName = "show()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "47AD750A-BD18-4578-B182-D944AAACC75E - ff838605fbf1e4e0"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #2 () -&gt; () in FEEAlert.FEEBaseConfig.show() -&gt; ()"
-                  moduleName = "FEEAlert"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/cpf/Desktop/FEEAlert/FEEAlert/FEEAlert.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "239"
-                  endingLineNumber = "239"
-                  offsetFromSymbolStart = "1298">
-               </Location>
-               <Location
-                  uuid = "47AD750A-BD18-4578-B182-D944AAACC75E - 93bb5c656b950664"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #2 (FEEAlert.FEEBaseConfig) -&gt; Swift.Bool in closure #2 () -&gt; () in FEEAlert.FEEBaseConfig.show() -&gt; ()"
-                  moduleName = "FEEAlert"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/cpf/Desktop/FEEAlert/FEEAlert/FEEAlert.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "239"
-                  endingLineNumber = "239"
-                  offsetFromSymbolStart = "69">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -103,38 +71,6 @@
             endingLineNumber = "690"
             landmarkName = "demo(_:)"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "D4660D11-FDCA-4AC5-BD82-FD23813A7FE1 - 9c279b631163dda"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "FEEAlert.AlertViewController.demo(Swift.Int) -&gt; ()"
-                  moduleName = "FEEAlert"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/cpf/Desktop/FEEAlert/FEEAlert/AlertViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "689"
-                  endingLineNumber = "689"
-                  offsetFromSymbolStart = "5796">
-               </Location>
-               <Location
-                  uuid = "D4660D11-FDCA-4AC5-BD82-FD23813A7FE1 - c39e4e2bdc799152"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #13 (Swift.Array&lt;FEEAlert.SelectedListModel&gt;) -&gt; () in FEEAlert.AlertViewController.demo(Swift.Int) -&gt; ()"
-                  moduleName = "FEEAlert"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/cpf/Desktop/FEEAlert/FEEAlert/AlertViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "663"
-                  endingLineNumber = "663"
-                  offsetFromSymbolStart = "83">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
